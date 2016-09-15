@@ -1,3 +1,5 @@
+![YouTube Bot Downloader Script](http://s6.uplod.ir/i/00820/1049l36473np.jpg)
+
 # ytbBotDler
 YouTube Bot Downloader Script , This script was made for a Telegram bot that allows you to download any Movies/Clips from YouTube .
 ## Dependencies
